@@ -1,0 +1,6 @@
+// struct => sekumpulan definisi dari tiap tiap field
+// interface{} =>
+
+// slice => mirip golang, bertipe data referensif [] 
+
+// map[string]interface{}
